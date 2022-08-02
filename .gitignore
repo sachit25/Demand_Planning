@@ -1,0 +1,13 @@
+*.log
+*Output.xlsx
+*.exe
+*.xlsx
+*.txt
+*.pydevproject
+*.project
+*.__pycache__
+*.spec
+build/
+dist/
+*/venv
+*/env
