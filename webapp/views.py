@@ -3,6 +3,9 @@ from django.shortcuts import render
 from django.http import HttpResponse
 from django.core.files.storage import FileSystemStorage
 
+def test1(request):
+    return HttpResponse("test1----------")
+
 # Create your views here.
 # def home(request):
 #     if request.method == 'POST':
