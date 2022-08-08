@@ -4,7 +4,7 @@ from django.http import HttpResponse
 from django.core.files.storage import FileSystemStorage
 
 def test2(request):
-    return HttpResponse("test2--------------")
+    return HttpResponse("test3--------------")
 
 # Create your views here.
 # def home(request):
